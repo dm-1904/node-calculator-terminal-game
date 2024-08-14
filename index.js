@@ -19,6 +19,7 @@ const calculator = () => {
 const badOperator = () => {
   console.log("That is not a valid operation.")
   calculator()
+  
 }
 
 
